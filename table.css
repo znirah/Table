@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    padding: 30px;
+    background-color: #00ffff;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-top: 0px;
+}
+
+.table,tr,th,td{
+    border: 3px solid black;
+    padding: 10px;
+    height: 80px;
+}
